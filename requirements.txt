@@ -18,8 +18,9 @@ playwright
 psutil
 pybase64
 pymongo
-pyrate_limiter
+pyrate_limiter==2.0.1
 Pyrogram==2.0.66
+pip install urllib3==1.26.16
 python-dotenv
 python-magic
 python-telegram-bot==13.15
