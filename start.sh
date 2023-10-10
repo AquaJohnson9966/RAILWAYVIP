@@ -4,6 +4,8 @@ pip3 install yt-dlp
 
 pip3 install speedtest-cli
 
+pip3 install urllib3==1.26.16
+
 pip3 install qbittorrent-api
 
 
